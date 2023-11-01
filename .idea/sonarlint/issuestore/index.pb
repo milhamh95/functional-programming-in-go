@@ -35,3 +35,7 @@ _
 /chapter3/b_variable_scoping/variable_scoping.go,b/d/bdb76df4bc2998f244d3561d36fc2db176381139
 e
 5chapter3/d_partial_application/partial_application.go,4/f/4fd6b032cebc2d5a25e4e1fc807a223e52ba6d3f
+O
+chapter3/e_currying/currying.go,1/c/1c0480e8f3ed75b40f7fd3f2e96a53a39f9544c7
+R
+"chapter3/e_currying/dog_spawner.go,d/6/d6c76a064b7bff87ee78cd5eba166a1b668c8fcb
